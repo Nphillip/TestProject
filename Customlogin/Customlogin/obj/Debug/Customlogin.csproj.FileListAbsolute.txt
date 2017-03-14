@@ -1,0 +1,10 @@
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\bin\Debug\Customlogin.exe.config
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\bin\Debug\Customlogin.exe
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\bin\Debug\Customlogin.pdb
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\obj\Debug\Customlogin.csprojResolveAssemblyReference.cache
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\obj\Debug\Customlogin.Form1.resources
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\obj\Debug\Customlogin.Main.resources
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\obj\Debug\Customlogin.Properties.Resources.resources
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\obj\Debug\Customlogin.csproj.GenerateResource.Cache
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\obj\Debug\Customlogin.exe
+c:\users\good\documents\visual studio 2015\Projects\Customlogin\Customlogin\obj\Debug\Customlogin.pdb
